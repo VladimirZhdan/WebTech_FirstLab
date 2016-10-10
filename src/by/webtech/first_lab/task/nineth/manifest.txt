@@ -1,0 +1,2 @@
+Main-Class: by.webtech.first_lab.task.nineth.NinethTask
+
